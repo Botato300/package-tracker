@@ -1,9 +1,9 @@
 # Package Tracker
-Este sistema hace web scraping a las páginas web de entrega de paquetes para notificarte sobre el estado actual de tu envío.
+Es un programa de consola que hace web scraping a las páginas web de entrega de paquetes para notificarte sobre el estado actual de tu envío.
 
 ## Plataformas soportadas
 - OCA
-- Andreani (en progreso)
+- Andreani
 
 ## Cómo usarlo
 1. Instala las librerías necesarias con `pip install -r requirements.txt`
