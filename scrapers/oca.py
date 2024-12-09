@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from ._interface import IScraper
+from .IScraper import IScraper
 
 class Oca(IScraper):
     def get_state(self, order_id):
